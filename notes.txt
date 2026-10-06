@@ -1,0 +1,2 @@
+Hi, Welcome to NotesApp
+Hello I'm a Java Developer
